@@ -1,27 +1,43 @@
-## White Speaker
+## The Carpentries and HPC
 
-### A GitPitch Presentation Template
+### What's been done?
 
 Note:
-Welcome to this [GitPitch](https://gitpitch.com)
-presentation template!
+This is based on the [GitPitch](https://gitpitch.com)
+presentation template.
 
 You are currently enjoying the speaker notes window,
 a feature available to all online and offline slideshows.
 
 ---
 
-## Tips!
+## SC17
 
-<br>
+### HPC Carpentry Birds-of-a-Feather
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+<div class="responsive-iframe">
+    <iframe src="https://www.youtube.com/embed/9d8wWcJLnFI?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Note:
-Get started by telling your audience something cool
-about your product, service, framework, course, etc.
+
+- Highlight the outcomes through a Socrative quiz 
+- Use the quiz to see how much people agree
+
+---
+
+## Learner Profile
+
+
+---
+
+## Course Design
+
+
+---
+
+## Comparing with existing intiatives
+
 
 ---
 
@@ -118,28 +134,9 @@ online @ [GitPitch.com](https://gitpitch.com) :)
 
 ---
 
-### Template Versions
-
-- #### [Base Template  @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/white)
-- #### [Code Maximized @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/white?p=codemax)
-- #### [Speaker Notes @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/white?p=speaker)
-
-Note:
-
-You can use the links on this slide to explore alternate
-versions of this template.
-
----
-
 ### Questions?
 
 <br>
-
-@fa[twitter gp-contact](@gitpitch)
-
-@fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
 
 Note:
 
