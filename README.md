@@ -1,4 +1,4 @@
-# GitPitch Presentation Template
+# CarpentryCon - HPC Carpentry Breakout Intro
 
 This presentation is based on the **White** GitPitch presentation template.
 
