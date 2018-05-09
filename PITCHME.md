@@ -15,8 +15,8 @@ a feature available to all online and offline slideshows.
 
 ### HPC Carpentry Birds-of-a-Feather
 
-<div class="responsive-iframe">
-    <iframe src="https://www.youtube.com/embed/9d8wWcJLnFI?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div>
+    <iframe src="https://b.socrative.com/teacher/#import-quiz/34463134" frameborder="0" ></iframe>
 </div>
 
 Note:
