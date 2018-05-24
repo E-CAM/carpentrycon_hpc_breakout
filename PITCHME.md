@@ -2,18 +2,22 @@
 
 ### What's been done?
 
+- Birds-of-a-Feather session at SC17 |
+- Two novice lessons are "in the wild"
+  - [HPC-in-a-day](https://psteinb.github.io/hpc-in-a-day/)
+  - [HPC intro](https://hpc-carpentry.github.io/hpc-intro/)
+  
+
 Note:
+
 This is based on the [GitPitch](https://gitpitch.com)
 presentation template.
 
-You are currently enjoying the speaker notes window,
-a feature available to all online and offline slideshows.
+Report from SC17 at https://hpc-uk.github.io/sc17-hpccarpentry-bof/pdf/sc17-hpccarpentry-bof-report.pdf
 
 ---
 
-## SC17
-
-### HPC Carpentry Birds-of-a-Feather
+## Keeping track of what people think
 
 <div>
     <iframe src="https://b.socrative.com/teacher/#import-quiz/34463134" frameborder="0" ></iframe>
@@ -31,12 +35,12 @@ Note:
 
 ---
 
-## Course Design
+## Topics
 
 
 ---
 
-## Comparing with existing intiatives
+## Portability
 
 
 ---
