@@ -2,7 +2,7 @@
 
 ### What's been done?
 
-- Birds-of-a-Feather session at SC17 ([report](https://hpc-uk.github.io/sc17-hpccarpentry-bof/pdf/sc17-hpccarpentry-bof-report.pdf) ) |
+- Birds-of-a-Feather session at SC17, [report](https://hpc-uk.github.io/sc17-hpccarpentry-bof/pdf/sc17-hpccarpentry-bof-report.pdf)  |
 - Two novice lessons are "in the wild" |
   - [HPC-in-a-day](https://psteinb.github.io/hpc-in-a-day/)
   - [HPC intro](https://hpc-carpentry.github.io/hpc-intro/)
