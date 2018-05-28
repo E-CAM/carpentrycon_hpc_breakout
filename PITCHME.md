@@ -52,7 +52,7 @@ Note:
   calculations and how are resources shared?
 - Want to know how to support themselves when things don’t work and keen to learn more.
 
-Notes:
+Note:
 
 - Working environment is foreign to them
 - Socrative: Check do people agree that this is the user profile that should be targeted by HPC Novice
@@ -78,7 +78,7 @@ Notes:
   'variable' and a 'function' and obtain a minimal knowledge of using the UNIX command line (e.g. if you have completed
   shell-novice, you are good to go).”
 
-Notes:
+Note:
 
 - Can give flexibility, but less prereqs means more time required
 - Use socrative to gauge support for prereqs:
@@ -93,7 +93,7 @@ Notes:
 
 ---?image=assets/image/Topics1-5.png&opacity=100
 
-Notes:
+Note:
 
 - Use socrative to gauge agreement and placement
   - Core, non-core, not suited
@@ -101,7 +101,7 @@ Notes:
 
 ---?image=assets/image/Topics6-10.png&opacity=100
 
-Notes:
+Note:
 
 - Use socrative to gauge agreement and placement
   - Core, non-core, not suited
@@ -109,7 +109,7 @@ Notes:
 
 ---?image=assets/image/OtherTopics.png&opacity=100
 
-Notes:
+Note:
 
 - Use socrative to gauge agreement and placement
   - Core, non-core, not suited
