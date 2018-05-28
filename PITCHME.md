@@ -84,7 +84,7 @@ Note:
 
 ## Topics   
 
----?image=assets/image/Topics1-5.png&size=auto 90%
+---?image=assets/image/Topics1-5.png&opacity=100&size=auto 90%
 
 
 
@@ -94,7 +94,7 @@ Note:
   - Core, non-core, not suited
   - Dedicated episode or distributed?
 
----?image=assets/image/Topics6-10.png&size=auto 90%
+---?image=assets/image/Topics6-10.png&opacity=100&size=auto 90%
 
 Note:
 
@@ -102,7 +102,7 @@ Note:
   - Core, non-core, not suited
   - Dedicated episode or distributed?
 
----?image=assets/image/OtherTopics.png&size=auto 90%
+---?image=assets/image/OtherTopics.png&opacity=100&size=auto 90%
 
 Note:
 
@@ -123,7 +123,7 @@ Note:
   - File systems (number, type)
   - Module environment (module names)
 - Both lessons have made efforts to make the material generic |
-- HPC-in-a-day uses settings in the “_config.yml” file for Jekyll functionality to customise the lesson
+- HPC-in-a-day uses settings in the “_config.yml” file for Jekyll functionality to customise the lesson |
   - File system names, scheduler, code snippets
 
 ---
