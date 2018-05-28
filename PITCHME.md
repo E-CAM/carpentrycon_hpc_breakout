@@ -18,7 +18,7 @@ Report from SC17 at https://hpc-uk.github.io/sc17-hpccarpentry-bof/pdf/sc17-hpcc
 
 ## Keeping track of your opinions
 
-- We will use Socrative to you thoughts and help drive the discussion 
+- We will use Socrative to gather your opinions and help drive the discussion 
 
 <div>
     <iframe src="https://b.socrative.com/teacher/#import-quiz/34463134" frameborder="0" ></iframe>
