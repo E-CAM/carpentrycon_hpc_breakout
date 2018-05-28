@@ -94,7 +94,7 @@ Note:
   - Core, non-core, not suited
   - Dedicated episode or distributed?
 
----?image=assets/image/Topics6-10.png&opacity=100&size=auto 90%
+---?image=assets/image/Topics6-10.png&opacity=100&size=auto 80%
 
 Note:
 
@@ -102,7 +102,7 @@ Note:
   - Core, non-core, not suited
   - Dedicated episode or distributed?
 
----?image=assets/image/OtherTopics.png&opacity=100&size=auto 90%
+---?image=assets/image/OtherTopics.png&opacity=100&size=auto 80%
 
 Note:
 
