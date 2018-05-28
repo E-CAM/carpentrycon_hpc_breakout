@@ -46,11 +46,11 @@ Note:
 
 ## BoF Learner Profile
 
-- Vague idea of what HPC is but not sure how this translates to their research.
-- Lack of experience with Linux, command line, text editors, batch systems etc.
+- Vague idea of what HPC is but not sure how this translates to their research. |
+- Lack of experience with Linux, command line, text editors, batch systems etc. |
 - Lack of knowledge about what HPC systems are: how are they put together, how do they enable faster/larger
-  calculations and how are resources shared?
-- Want to know how to support themselves when things don’t work and keen to learn more.
+  calculations and how are resources shared? |
+- Want to know how to support themselves when things don’t work and keen to learn more. |
 
 Note:
 
