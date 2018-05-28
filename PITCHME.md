@@ -5,8 +5,8 @@
 - Breakout |
   - Alan O'Cais, Juelich Supercomputing Centre 
   - Daniel Smith, Virginia Tech
-  - Andrew Turner, EPCC ([Report]())
-- Workshop
+  - Andrew Turner, EPCC ([Report](https://github.com/carpentries/carpentrycon/files/2022796/HPCCarpentry_Comparison.pdf))
+- Workshop |
   - Peter Steinbach, Scionics Computer Innovation GmbH
   - Christina Koch, University of Wisconsin
   
