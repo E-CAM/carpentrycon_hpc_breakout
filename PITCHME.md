@@ -64,14 +64,14 @@ Note:
 
 ## Prerequisites
 
-- **BoF**: |
-  *Basic Linux shell use and scripting*
-- **hpc-intro**: |
+- **BoF**: 
+  *Basic Linux shell use and scripting* |
+- **hpc-intro**: 
   *"There are no real prerequisites for this lesson, but prior programming and/or command line experience will be
-  helpful."*
+  helpful."* |
 - **hpc-in-a-day**: |
   *"If you have already written small programs with a language of your choice and know the difference
-  between a 'variable' and a 'function' and obtain a minimal knowledge of using the UNIX command line.*"
+  between a 'variable' and a 'function' and obtain a minimal knowledge of using the UNIX command line.*" |
 
 Note:
 
