@@ -16,10 +16,8 @@
 ## Keeping track of your opinions
 
 - We will use Socrative to gather your opinions and help drive the discussion 
-
-<div>
-    <iframe src="https://b.socrative.com/teacher/#import-quiz/34463134" frameborder="0" ></iframe>
-</div>
+  - https://b.socrative.com/student
+  - Room: ALAN1854 
 
 Note:
 
@@ -66,7 +64,7 @@ Note:
 
 - **BoF** *Basic Linux shell use and scripting* |
 - **hpc-intro** *"There are no real prerequisites for this lesson, but prior programming and/or command line experience will be helpful."* |
-- **hpc-in-a-day* *"If you have already written small programs with a language of your choice and know the difference between a 'variable' and a 'function' and obtain a minimal knowledge of using the UNIX command line."* |
+- **hpc-in-a-day** *"If you have already written small programs with a language of your choice and know the difference between a 'variable' and a 'function' and obtain a minimal knowledge of using the UNIX command line."* |
     
 Note:
 
