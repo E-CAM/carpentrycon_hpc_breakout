@@ -23,6 +23,7 @@ Note:
 
 - Highlight the outcomes through a Socrative quiz 
 - Use the quiz to see how much people agree
+- Start off by seeing a snippet of the profile of the people in the room
 
 ---
 
