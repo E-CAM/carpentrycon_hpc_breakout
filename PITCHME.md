@@ -7,7 +7,7 @@
   - Daniel G. A. Smith, The Molecular Sciences Software Institute
   - Andrew Turner, EPCC ([Report](https://github.com/carpentries/carpentrycon/files/2022796/HPCCarpentry_Comparison.pdf))
 - Workshop |
-  - Peter Steinbach, Scionics Computer Innovation GmbH
+  - Peter Steinbach, Scionics Computer Innovation
   - Christina Koch, University of Wisconsin
   
 
