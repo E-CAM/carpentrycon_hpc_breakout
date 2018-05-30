@@ -123,12 +123,6 @@ Note:
 
 ---
 
-## Lesson scalability challenges
-
-- Access to training resources
-
----
-
 ## Thanks!
 
 ### Questions?
