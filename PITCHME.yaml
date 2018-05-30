@@ -12,4 +12,4 @@ highlight : atom-one-light
 #logo : assets/image/logo.png
 transition : none
 published : true
-footnote : "The Carpentries and HPC (socrative room ALAN1854)"
+footnote : "The Carpentries and HPC (<a href="https://b.socrative.com/student">Socrative<\a> room ALAN1854)"
