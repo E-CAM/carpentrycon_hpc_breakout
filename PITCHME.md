@@ -128,6 +128,7 @@ Note:
 ### Questions?
 
 <br>
+![](assets/image/funding.png "E-CAM funding")
 
 Note:
 

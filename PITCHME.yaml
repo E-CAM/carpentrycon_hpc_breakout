@@ -9,7 +9,7 @@ theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
 # This is the E-CAM logo for the time being, can become something else as long
 # as E-CAM gets a mention somewhere
-logo : assets/image/logo.png
+#logo : assets/image/logo.png
 transition : none
 published : true
-footnote : "Carpentries and HPC: What's been done? (socrative room ALAN1854)"
+footnote : "The Carpentries and HPC (socrative room ALAN1854)"
