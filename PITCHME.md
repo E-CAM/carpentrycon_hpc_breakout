@@ -4,7 +4,7 @@
 
 - Breakout |
   - Alan O'Cais, Juelich Supercomputing Centre 
-  - Daniel Smith, Virginia Tech
+  - Daniel G. A. Smith, The Molecular Sciences Software Institute
   - Andrew Turner, EPCC ([Report](https://github.com/carpentries/carpentrycon/files/2022796/HPCCarpentry_Comparison.pdf))
 - Workshop |
   - Peter Steinbach, Scionics Computer Innovation GmbH
