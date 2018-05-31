@@ -18,6 +18,7 @@
 - We will use Socrative to gather your opinions and help drive the discussion 
   - https://b.socrative.com/student
   - Room: ALAN1854 
+- http://pad.software-carpentry.org/hpc-breakout
 
 Note:
 
